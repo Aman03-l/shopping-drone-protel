@@ -412,9 +412,7 @@ Proses pengerjaan proyek Shopping Drone dibagi dalam beberapa tahap:
 
 Deskripsi tugas masing-masing anggota:
 
-- **Salman Al Ghifary — Desain UI/UX dan Pengembangan Aplikasi Mobile (Flutter):** Bertanggung jawab merancang antarmuka aplikasi pelanggan dan dashboard merchant, membangun halaman katalog produk, keranjang belanja, checkout, drone tracking dengan Flutter Map, serta mengintegrasikan Firebase Authentication.
-
-- **Farhan Abdurrahman Muthohhar — Pengembangan Backend dan Integrasi Sistem:** Mengembangkan sistem komunikasi MQTT (Flutter ↔ Broker ↔ Drone), mengkonfigurasi HiveMQ Cloud (topik, SSL/TLS), mengintegrasikan Firebase Firestore, dan memastikan sinkronisasi data real-time antar komponen.
+- **Salman Al Ghifary — Desain UI/UX dan Pengembangan Aplikasi Mobile (Flutter):** Bertanggung jawab merancang UI aplikasi pelanggan dan dashboard merchant, membangun halaman katalog produk, keranjang belanja, checkout, drone tracking dengan Flutter Map, serta mengintegrasikan Firebase Authentication.
 
 - **Andika Fathurrahman Achiral — Mekanisme Drone dan Cargo (Hardware):** Merakit drone (frame F450, motor, ESC, propeller, Pixhawk, GPS), mengkonfigurasi flight controller, mengembangkan firmware ESP32 (LilyGO + TinyGSM + MAVLink), serta merancang mekanisme cargo box dengan servo.
 
